@@ -1,6 +1,7 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋🏽;I'm + yusuf!+🦈;Nice+to+meet+you!+🙂&center=true&size=30&color=29d2a">
-</h1>
+
+### Hi there 👋
+
+
 <h3 align="center">A software developer and an Electrical Engineer from Uganda.</h3>
 
 <p align="center">I'm a full stack software developer student, and an Electrical engineer. I enjoy making web applications and electrical Engineering as they both require a lot of creativity, and there's no limits to what you can do. I yearn to always learn more to become a better programmer and version of myself.</p>
