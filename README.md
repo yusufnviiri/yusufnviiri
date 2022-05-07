@@ -1,16 +1,41 @@
-### Hi there 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋🏽;I'm + yusuf!+🦈;Nice+to+meet+you!+🙂&center=true&size=30&color=29d2a">
+</h1>
+<h3 align="center">A software developer and an Electrical Engineer from Uganda.</h3>
 
-<!--
-**yusufnviiri/yusufnviiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">I'm a full stack software developer student, and an Electrical engineer. I enjoy making web applications and electrical Engineering as they both require a lot of creativity, and there's no limits to what you can do. I yearn to always learn more to become a better programmer and version of myself.</p>
 
-Here are some ideas to get you started:
+<img align="right" width="470px" height="300px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨🏽‍💻   Currently, I'm studying and training to be a **Full-Stack Software Developer** at [Microverse](https://microverse.org).
+
+- 👥   I'm open to collaborations. Feel free to reach out to me if you have a project you'd like me on.
+
+- 🥷🏽   I'm currently learning **HTML5**, **CSS3 & CSS Frameworks**, and **JavaScript**.
+
+- 🗓   Ask me about **HTML**, **CSS**, and **JavaScript**.
+
+- 💻   You can view all **my projects** by clicking on this [link](https://github.com/yusufnviiri?tab=repositories). Feel free to open an issue in any project if you spot a bug and I will try to fix it as soon as possible.
+
+
+<h2>📲  Let's Connect<h2>
+ <a href="https://mobile.twitter.com/YNviiri">  
+ </a>
+ <a href="https://www.linkedin.com/in/yusuf-nviiri-8b4146206/">  
+ </a>
+
+
+ <h2>🛠 Languages & Tools<h2>
+ <p align="left">
+ <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+ <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+ <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+ <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" />
+ <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+ <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+ <img height="42" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+                                                                                                                                           
+ </p>
+
+
+ 
