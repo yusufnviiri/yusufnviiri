@@ -4,17 +4,17 @@
 
 <h3 align="center">A software developer and an Electrical Engineer from Uganda.</h3>
 
-<p align="center">I'm a full stack software developer student, and an Electrical engineer. I enjoy making web applications and electrical Engineering as they both require a lot of creativity, and there's no limits to what you can do. I yearn to always learn more to become a better programmer and version of myself.</p>
+<p align="center">I'm a Full stack software developer , and an Electrical engineer. I enjoy making web applications and electrical Engineering as they both require a lot of creativity, and there's no limits to what you can do. I yearn to always learn more to become a better programmer and version of myself.</p>
 
 <img align="right" width="470px" height="300px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
 
-- 👨🏽‍💻   Currently, I'm studying and training to be a **Full-Stack Software Developer** at [Microverse](https://microverse.org).
+- 👨🏽‍💻   Currently, I'm actively searching for vacancies to work as a  **Full-Stack Software Developer**.
 
 - 👥   I'm open to collaborations. Feel free to reach out to me if you have a project you'd like me on.
 
-- 🥷🏽   I'm currently learning **HTML5**, **CSS3 & CSS Frameworks**, and **JavaScript**.
+- 🥷🏽   I'm currently I'm proficient in **C#**, **MySQL**, **React**,**CSS3 & CSS Frameworks**, and **JavaScript**.
 
-- 🗓   Ask me about **HTML**, **CSS**, and **JavaScript**.
+- 🗓   Ask me about **C#**, **MySQL**, **React**,**HTML**, **CSS**, and **JavaScript**.
 
 - 💻   You can view all **my projects** by clicking on this [link](https://github.com/yusufnviiri?tab=repositories). Feel free to open an issue in any project if you spot a bug and I will try to fix it as soon as possible.
 
@@ -35,6 +35,9 @@
  <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
  <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
  <img height="42" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+  <img height="42" width="50" src="https://icons8.com/icon/55205/c-sharp-logo" />
+ <img height="42" width="50" src="https://icons8.com/icon/t3lRtmybvzBZ/mysql" />
+
                                                                                                                                            
  </p>
 
